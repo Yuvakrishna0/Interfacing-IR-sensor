@@ -89,12 +89,15 @@ else
 ```
 
 ## CIRCUIT DIAGRAM:
-![7b1627f1-4bf1-4cdc-9a3a-c9d46b7ca276](https://github.com/Yuvakrishna0/Interfacing-IR-sensor/assets/117915037/1940fa9b-dcf6-4bf3-a0f1-55914b8f1f80)
+
+![WhatsApp Image 2023-06-15 at 8 33 23 PM (1)](https://github.com/Yuvakrishna0/Interfacing-IR-sensor/assets/117915037/9a51e7f2-4ee2-44f4-9323-4a532424a1a3)
 
 
 ## OUTPUT:
-![38f5f075-e8e8-481f-b45c-6543a816a6c0](https://github.com/Yuvakrishna0/Interfacing-IR-sensor/assets/117915037/404fb11f-a1e1-472d-b3ce-c0dc332221de)
+![WhatsApp Image 2023-06-15 at 8 33 23 PM](https://github.com/Yuvakrishna0/Interfacing-IR-sensor/assets/117915037/2cb3f3ff-34ec-4f32-a177-4c7a84324054)
+<br>
 
+![WhatsApp Image 2023-06-15 at 8 33 24 PM](https://github.com/Yuvakrishna0/Interfacing-IR-sensor/assets/117915037/8a4d925c-605a-4a7f-8228-26241c39d91c)
 
 ## RESULT:
 Thus the IR sensor module is interfaced with Arduino UNO controller and output is verified.
